@@ -9,7 +9,8 @@ package dam_ed04_actividad.cuentas;
 public class CCuenta {
 
     /**
-     * @return the cuenta
+     * añadido para javaDoc
+     * @return 
      */
     public String getCuenta() {
         return cuenta;
